@@ -8,3 +8,4 @@ adding new file
 git merge command
 git push command
 git push 2
+git pull
