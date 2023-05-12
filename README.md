@@ -6,3 +6,4 @@ arun
 adding new changes
 adding new file
 git merge command
+git merge 2
