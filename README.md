@@ -5,3 +5,4 @@ change to local repo
 arun
 adding new changes
 adding new file
+git merge command
