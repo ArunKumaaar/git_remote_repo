@@ -9,3 +9,4 @@ git merge command
 git push command
 git push 2
 git pull
+pull 2
